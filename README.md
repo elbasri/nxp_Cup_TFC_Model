@@ -62,6 +62,12 @@ The project aims to design and develop software for a self-driving car model con
 
 ---
 
+## تكامل ULTRASONIC (ULTRASONIC Integration):
+[https://github.com/elbasri/ultrasonic-kl25z-nxp](https://github.com/elbasri/ultrasonic-kl25z-nxp)
+(رابط إلى مستودع GitHub الخاص بتكامل مستشعر الموجات فوق الصوتية مع لوحة KL25Z.)
+(Link to the GitHub repository for ultrasonic sensor integration with the KL25Z board.)
+
+
 ## المساهمون (Contributors)
 عبد الناصر البصري (Abdennacer Elbasri)
 - **Twitter**: [@abdennacerelb](https://twitter.com/abdennacerelb)  
