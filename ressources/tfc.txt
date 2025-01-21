@@ -1,1 +1,3 @@
 https://community.nxp.com/t5/University-Programs-Knowledge/Freescale-Cup-Shield-for-the-Freedom-KL25Z/ta-p/1104533
+https://os.mbed.com/platforms/KL25Z/
+https://www.hackster.io/emmaadby/framework-for-the-nxp-cup-race-car-1479f7
